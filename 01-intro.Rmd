@@ -1,0 +1,37 @@
+# Giới thiệu tác phẩm {-}
+
+Lời xin lỗi của một nhà toán học (“A mathematician's apology” ) là một bài tiểu luận ngắn nói
+lên tâm sự của nhà toán học nổi tiếng người Anh Godfrey Harold Hardy (1877-1947) về nghề
+nghiệp và niềm đam mê của ông trong Toán học. Có hai điểm chính yếu (lý do) mà tác giả
+muốn gửi đến người đọc là:
+
+Đầu tiên tác giả viết cuốn tiểu luận này vào năm 1940, nhưng trước đó một năm tác giả đã trải
+qua một cơn đau tim, và tại thời điểm đó, tức năm 1939, tác giả 62 tuổi, phần nào đó ông đã
+cảm nhận được sự tác động của tuổi tác đến việc làm toán, ông thấy mình không còn một bộ
+óc đủ sáng tạo, không còn nhiều năng lượng để tiếp tục công việc của mình một cách hiệu quả.
+
+Điểm thứ hai là tác giả muốn gửi gắm đến những nhà toán học trẻ và những người khác nói
+chung rằng toán học vốn mang vẻ đẹp của nó, nên được theo đuổi theo cách riêng của nó hơn
+là vì những lợi ích của những ứng dụng mà nó mang lại. Ông muốn truyền tải triết lý toán, về
+giá trị của toán học thuần túy hơn là dùng các ứng dụng toán học để nói về tầm quan trọng của
+nó, điều đó sẽ truyền cảm hứng cho các thế hệ các nhà toán học trẻ hơn.
+
+Một cuốn sách hay càng đọc càng thấm, mới thấy trân trọng và kính nể các nhà toán học thuần
+túy (pure mathematicians, 'real' mathematicians) và chính bản thân Toán học. Từng trang sách
+toát lên niềm kiêu hãnh của một nhà toán học như người lữ hành trên sa mạc mênh mông rộng
+lớn của tri thức, như nhà thám hiểm trong khu rừng chông gai và huyền bí của thử thách.
+
+Dù một số bài học trong đó đã bị lu mờ vì những thái độ lỗi thời và chúng ta cần xem xét lại
+kiến trong đó trong bối cảnh lịch sử của chúng. Song, tác phẩm kinh điển của Hardy vẫn soi
+rọi cho ta thấy các nhà toán học hàn lâm nhìn nhận bản thân họ và môn học của họ như thế
+nào vào năm 1940. Nó chứa đựng những bài học quan trọng cho bất kỳ người nào có khả năng
+trở thành toán học, có khi chính cả những nhà toán học thực thụ hay chỉ đơn giản là những nhà
+toán học nghiệp dư đam mê với bộ môn này.
+
+Bài viết được đăng trên nhà nhện này tựa như một cuốn sách nhỏ mà mình biên tập từ bản dịch
+ở web "diễn đàn toán học" đến những người bạn học cùng lớp bồi dưỡng toán năm cấp 2 và
+những bạn chuyên anh đam mê với toán học mà mình có dịp ngồi lại thảo luận chung. Các bài
+dịch cũng được đưa thành từng phần như trong tác phẩm (bản gốc tiếng Anh mình sẽ để ở dưới
+bài viết) để độc giả tiện so sánh, đối chiếu.
+
+**Nguyễn Lê Nam**

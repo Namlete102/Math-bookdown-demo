@@ -1,0 +1,12 @@
+--- 
+title: "Lời xin lỗi của một nhà toán học"
+author: "Godfrey Harold Hardy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+---
+
+# {-}
+
+![](./images/Bìa sách.jpg) 
